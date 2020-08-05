@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "687114568549",
+    "firebase_url": "https://ecommerce-store-in.firebaseio.com",
+    "project_id": "ecommerce-store-in",
+    "storage_bucket": "ecommerce-store-in.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687114568549:android:3d7627bfb0402cb8",
+        "android_client_info": {
+          "package_name": "com.abhiandroid.ecommercestorein"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "687114568549-a7730putju5mtutl862baf52q50l6ppd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBftJzODLdACKIEWq42DmVw5TCAcOKKo20"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
